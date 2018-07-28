@@ -1,7 +1,7 @@
 # Maps
 Maps API
 ## Getting started
-Clone the project, create new virtualenv (`virtualenv maps` , `source /envs/maps/bin/activate`) for the project, after run 
+Clone the project, create new virtualenv (`virtualenv maps` , `source /envs/maps/bin/activate`) for the project, after go to project directory and run 
 ```
 pip install -r requirements.txt
 ```
