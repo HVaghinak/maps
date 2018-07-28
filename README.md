@@ -1,5 +1,5 @@
-# Seabattle
-Simple sea battle API
+# Maps
+Maps API
 ## Getting started
 Clone the project, create new virtual env for the project, after run 
 ```
